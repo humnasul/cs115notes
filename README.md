@@ -4,4 +4,5 @@ Topics for CS115 include: design; algorithmic thinking; recursion; object-orient
 - syllabus attached in repo  
 - code in "class code" folder  
 - practice tests + review content included in "practice for exams" folder  
-- all my notes included in "cs115_notes_humna.pdf" (might not be the best notes for self-learning, but it includes all classwork)  
+- all my notes included in "cs115_notes_humna.pdf" (might not be the best notes for self-learning, but it includes all classwork)
+clarification that there are no answers to labs, homework, tests, etc. in this repository - solely my class notes and review content
