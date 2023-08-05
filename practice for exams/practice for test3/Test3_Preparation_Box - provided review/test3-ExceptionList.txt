@@ -1,0 +1,11 @@
+Errors/Exceptions to know for the Test3:
+
+ZeroDivisionError
+NameError
+TypeError
+FileNotFoundError
+IOError
+KeyError
+IndexError
+AssertionError
+RuntimeError
