@@ -1,5 +1,5 @@
 # cs115notes
-A collection of notes + code from CS115 (intro to cs) at Stevens Institute of Technology - **IN PROGRESS**  
+A collection of notes + code from CS115 (intro to cs) at Stevens Institute of Technology  
 Topics for CS115 include: design; algorithmic thinking; recursion; object-oriented programming; ethics in computer science; and some basics about computer systems: machine language, interpreters, compilers, and data representation  
 - syllabus attached in repo  
 - code in "class code" folder  
